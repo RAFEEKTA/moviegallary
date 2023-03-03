@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Climate+Crisis&family=Labrada&family=Libre+Franklin&family=Nunito+Sans&family=Roboto+Slab&family=Teko&display=swap');
+
+.main {
+    width: 261px;
+    height: 456px;
+    margin-left: 495px;
+    margin-top: 48px;
+    position: absolute;
+    border-radius: 6px;
+    box-shadow: 10px 10px 8px #888888;
+
+   background-color: rgb(26, 29, 43);
+}
+
+.header {
+    width: 100%;
+    height: 35px;
+    background-color: rgb(26, 29, 43);
+    color: gold;
+    margin-top: -21px;
+    position: absolute;
+   border-top-right-radius: 6px;
+   border-top-left-radius: 6px;
+}
+.hedertext{
+font-family: 'Roboto Slab', serif;
+ position: absolute;
+ margin-left: 62px;
+ margin-top: 6px;
+ font-size: 15px;
+ 
+ text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+a{text-shadow: 2px 2px 5px red;}
+
+    
+
+.image{
+    padding-left: 10px;
+    padding-right: 10px;
+  
+    
+
+
+}.img1{
+    width: 100%;
+    height: 250px;}
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color:silver;
+}
+.dis{
+    position: absolute;
+    
+    height: 104px;
+    width: 81%;
+    top: 252px;
+    left: 23px;
+    color: rgb(255, 217, 0);
+    text-align: center;
+}
+.b{
+
+    color:#10ffb9;
+}.rating{
+    position: absolute;
+    height: 60px;
+    width: 170px;
+    left: 45px;
+    top: 363px;
+    background-color: rgb(19, 48, 57);
+}.img2{
+    width: 89%;
+    height: 27px;
+    position: absolute;
+    top: 14px;
+    left: 10px;
+}
